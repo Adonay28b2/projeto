@@ -51,7 +51,7 @@ body * {
 }
 #profile img {
   width: 112px;
-  border-radius: 1000%;
+  border-radius: 100%;
 }
 
 #profile p {
@@ -130,13 +130,6 @@ ul li a {
 ul li a:hover {
   background: var(--surface-color-hover);
   border: 1.5px solid var(--text-color);
-}
-
-#social-links {
-  display: flex;
-  justify-content: center;
-  padding: 24px 0;
-  font-size: 24px;
 }
 
 footer {
